@@ -1,8 +1,8 @@
-# ATK Mouse Battery Tray (Windows)
+# ATK Gear's Mouse Battery Tray (Windows)
 
 <img width="169" height="60" alt="image" src="https://github.com/user-attachments/assets/45326a00-139e-46ac-9d4d-9c7ceb506f5a" />
 
-### Setup VID/PID for your ATK Mouse
+### Setup VID/PID for your ATK Gear's Mouse
 
 You can find the Mouse VID/PID using Chrome’s device log
 Steps

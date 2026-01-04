@@ -1,0 +1,10 @@
+[package]
+name = "atk-mouse-battery-tray"
+version = "0.0.1"
+edition = "2024"
+
+[dependencies]
+anyhow = "1"
+hidapi = { version = "2", default-features = false, features = ["windows-native"] }
+tray-icon = "0.21"
+winit = "0.30"
